@@ -1,0 +1,11 @@
+#!/bin/bash
+# Perplexity search wrapper for OpenClaw
+export PERPLEXITY_API_KEY="${PERPLEXITY_API_KEY:-$(jq -r '.auth.profiles.perplexity.apiKey' /home/clawd/.openclaw/openclaw.json 2>/dev/null || echo '')}"
+
+if [ $# -eq 0 ]; then
+  echo "Usage: perplexity-search <query>"
+  exit 1
+fi
+
+QUERY="$*"
+mcporter call perplexity.search "query:$QUERY"

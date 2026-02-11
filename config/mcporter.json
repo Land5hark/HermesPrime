@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "perplexity": {
+      "command": "node /home/clawd/.openclaw/workspace/mcp-servers/perplexity-server.js"
+    }
+  },
+  "imports": []
+}
