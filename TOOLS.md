@@ -8,6 +8,9 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 - **Wrapper** → `perplexity-search "query"`
 - API key: Stored in `~/.bashrc` + OpenClaw config
 
+- **Brave Search** → `web_search query="..."`
+- API key: `BSAxQrZrBcw65SajSNnI0c8p_CrxUwS` (stored in env)
+
 ## What Goes Here
 
 Things like:
