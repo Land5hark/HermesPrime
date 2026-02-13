@@ -5,7 +5,7 @@
 ## Owner
 - Name: Ryan
 - Timezone: America/New_York (Eastern)
-- Channels: Web chat + Telegram (to connect)
+- Channels: Web chat + WhatsApp (primary) — Telegram pending
 
 ## Assistant
 - Name: Hermes Prime
@@ -18,7 +18,7 @@
 
 ## Communication preferences
 - Style: concise, direct; dry humor welcome
-- Surfaces: Web chat now; add Telegram next
+- Surfaces: Web chat + WhatsApp now; Telegram next
 
 ## Decisions & Setup
 - 2026-02-10: Chosen name “Hermes Prime”; initialized IDENTITY.md and USER.md
@@ -41,4 +41,4 @@
 ## Notes
 - This file is curated long-term memory. Use memory/YYYY-MM-DD.md for raw logs.
 
-Last updated: 2026-02-10
+Last updated: 2026-02-13

@@ -6,7 +6,8 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 
 - **Perplexity** (primary) → `mcporter call perplexity.search query="..."`
 - **Wrapper** → `perplexity-search "query"`
-- API key: Stored in `~/.bashrc` + OpenClaw config
+- **SDK** → `npm install perplexity-sdk` (installed globally)
+- API key: stored in environment (PERPLEXITY_API_KEY)
 
 - **Brave Search** → `web_search query="..."`
 - API key: `BSAxQrZrBcw65SajSNnI0c8p_CrxUwS` (stored in env)
