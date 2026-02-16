@@ -4,6 +4,14 @@
     "github": {
       "version": "1.0.0",
       "installedAt": 1770847417441
+    },
+    "adhd-daily-planner": {
+      "version": "1.0.0",
+      "installedAt": 1771219317628
+    },
+    "adhd-body-doubling": {
+      "version": "2.1.1",
+      "installedAt": 1771219411456
     }
   }
 }
