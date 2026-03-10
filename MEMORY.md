@@ -5,7 +5,8 @@
 ## Owner
 - Name: Ryan
 - Timezone: America/New_York (Eastern)
-- Channels: Web chat + WhatsApp (primary) — Telegram pending
+- Channels: Web chat + WhatsApp (primary) + Telegram (connected)
+- Relationship status: Single (broke up with Maddy)
 
 ## Assistant
 - Name: Hermes Prime
@@ -32,7 +33,6 @@
 - Onboarding + Telegram connection
 
 ## Open TODOs
-- Connect Telegram bot and link to Ryan
 - Confirm/perform BOOTSTRAP.md removal once fully set
 
 ## Recurring / Reminders
@@ -41,4 +41,4 @@
 ## Notes
 - This file is curated long-term memory. Use memory/YYYY-MM-DD.md for raw logs.
 
-Last updated: 2026-02-13
+Last updated: 2026-02-28
